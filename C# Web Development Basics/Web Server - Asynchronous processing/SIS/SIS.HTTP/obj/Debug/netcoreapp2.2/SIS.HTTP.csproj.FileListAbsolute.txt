@@ -1,0 +1,9 @@
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\bin\Debug\netcoreapp2.2\SIS.HTTP.deps.json
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.csprojAssemblyReference.cache
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.csproj.CoreCompileInputs.cache
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.AssemblyInfoInputs.cache
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.AssemblyInfo.cs
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.dll
+D:\Projects\C# Web\C# Web Development Basics\Web Server - Asynchronous processing\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.pdb
